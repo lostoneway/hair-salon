@@ -6,7 +6,7 @@ This is a landing page for a natural hair salon. I really enjoyed building this 
 
 ## Problems 
 - `background-attachment: fixed;`  does not play nice with Safari. Any background image scrolling would break or image would not appear. I decided I didn't need it. 
-- 
+
 
 ## What are some goals for this web app?
 - Gain a better understanding of HTML and CSS. 
@@ -16,19 +16,15 @@ This is a landing page for a natural hair salon. I really enjoyed building this 
 
 
 ## Ways to tackle the project
-* Draft the HTML before styling. To get a sense of the flow of the document. 
-* Utilize [Unsplash](https://unsplash.com/) for great free to use photos! 
-* Practice CSS Grid, it'll be a one of the focal pieces of the site. 
+- Draft the HTML before styling. To get a sense of the flow of the document. 
+- Utilize [Unsplash](https://unsplash.com/) for great, free to use photos! 
+- Practice CSS Grid, it'll be a one of the focal pieces of the site. 
 
-## Unsplash Images Credit: 
-Stylists
-Photo by Dorrell Tibbs on Unsplash
-
-Lookbooks
-Photo by Nathaniel Tetteh on Unsplash
-Photo by Blake Cheek on Unsplash
-Photo by Larry George II on Unsplash
-
-Photo by Kory Williams on Unsplash
-Photo by M. M on Unsplash
-Photo by Shedrack Salami on Unsplash 
+## Unsplash Images Credit:
+* Photo by Dorrell Tibbs on Unsplash
+* Photo by Nathaniel Tetteh on Unsplash
+* Photo by Blake Cheek on Unsplash
+* Photo by Larry George II on Unsplash
+* Photo by Kory Williams on Unsplash
+* Photo by M. M on Unsplash
+* Photo by Shedrack Salami on Unsplash 
