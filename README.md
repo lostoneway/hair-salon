@@ -1,8 +1,9 @@
 # Loc'd and Lovin' It!
 
 [Check It Out!](https://locdandlovingit.netlify.app/)
+![Loc'd and Lovin' It Preview](./images/salon-preview.png "Loc'd and Lovin' It Preview")
 
-This is a landing page for a natural hair salon. I really enjoyed building this to allowing me to flex my HTML and CSS muscles. 
+This is a landing page for a natural hair salon. I really enjoyed building and expanded upon my newly learned HTML and CSS skills. 
 
 ## Problems 
 - `background-attachment: fixed;`  does not play nice with Safari. Any background image scrolling would break or image would not appear. I decided I didn't need it. 
